@@ -57,7 +57,7 @@ steps under the heading "### Paano Magsimula (How to Start)".
 * **Style constraints enforced:** max 6 flat colors, no gradients or photographic textures, must remain legible at 32x32px, must visually center the *physical sari-sari stall* (not a generic phone-and-app graphic) so vendors recognize themselves in it rather than seeing a bank ad.
 * **File:** `sarisari-icon.svg`
 
-!\[Sari-Sari Digital Payment Icon](sarisari-icon.svg)
+[View Icon: sarisari-icon.svg](sarisari-icon.svg)
 
 \---
 
