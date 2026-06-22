@@ -1,0 +1,28 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="95" fill="#1E5C45"/>
+
+  <!-- Sari-sari store stall -->
+  <rect x="40" y="95" width="120" height="60" fill="#F2C14E" stroke="#7A4A12" stroke-width="2"/>
+  <!-- Awning -->
+  <path d="M30 95 L170 95 L160 75 L40 75 Z" fill="#E0563B" stroke="#7A4A12" stroke-width="2"/>
+  <!-- Awning stripes -->
+  <path d="M55 95 L62 75" stroke="#FFFFFF" stroke-width="6"/>
+  <path d="M95 95 L100 75" stroke="#FFFFFF" stroke-width="6"/>
+  <path d="M135 95 L140 75" stroke="#FFFFFF" stroke-width="6"/>
+
+  <!-- Counter window -->
+  <rect x="60" y="105" width="80" height="35" fill="#FFF7E1" stroke="#7A4A12" stroke-width="2"/>
+
+  <!-- Phone with QR code (GCash/Maya style payment) -->
+  <rect x="90" y="112" width="22" height="34" rx="3" fill="#1E1E1E"/>
+  <rect x="93" y="116" width="16" height="22" fill="#FFFFFF"/>
+  <rect x="96" y="119" width="3" height="3" fill="#1E1E1E"/>
+  <rect x="101" y="119" width="3" height="3" fill="#1E1E1E"/>
+  <rect x="96" y="124" width="3" height="3" fill="#1E1E1E"/>
+  <rect x="101" y="124" width="3" height="3" fill="#1E1E1E"/>
+  <rect x="98" y="129" width="3" height="3" fill="#1E1E1E"/>
+
+  <!-- Peso coin icon -->
+  <circle cx="55" cy="125" r="10" fill="#F4A93B" stroke="#7A4A12" stroke-width="1.5"/>
+  <text x="55" y="130" font-size="12" text-anchor="middle" fill="#7A4A12" font-family="Arial" font-weight="bold">P</text>
+</svg>
