@@ -51,7 +51,7 @@ This infographic visualizes a quantitative developmental research study on build
 
 **Self-Introduction Video**
 
-> 📽️ [Watch Self-Introduction](media/Final_Self_Intro.mp4)
+> 📽️ [Watch Self-Introduction](https://drive.google.com/file/d/1sy66_-T_etN6xSzsbFcJKLCaapWyHEmL/view?usp=sharing)
 
 To make this introductory video highly engaging and relatable, I chose a fast-paced, meme-heavy format that reflects my casual personality and hobbies. By integrating classic internet humor templates—like the Soyjak pointer to introduce myself and the "locking in" timeline meme at the end, I was able to present my life as a second-year accounting student in a lighthearted, modern way. This intentional blend of personal photos, anime references, and student-relatable humor successfully balances the necessary introductory facts with an authentic, entertaining glimpse into who I am.
 
